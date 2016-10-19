@@ -1,0 +1,28 @@
+/*webkit-sassui-circle Start*/
+/*webkit-sassui-circle End*/
+.test-webkit-sassui-circle {
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  background: #e9f8ff;
+  border: 2px solid #009ff0;
+  border-radius: 100%;
+}
+
+.test-webkit-sassui-circle-20 {
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  background: green;
+  border: 5px solid #F00;
+  border-radius: 100%;
+}
+
+.test-webkit-sassui-circle-30 {
+  width: 30px;
+  height: 30px;
+  display: inline-block;
+  background: #e9f8ff;
+  border: 2px solid #009ff0;
+  border-radius: 100%;
+}

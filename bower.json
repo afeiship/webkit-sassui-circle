@@ -1,0 +1,29 @@
+{
+  "name": "webkit-sassui-circle",
+  "description": "Webkit sass ui module for circle.",
+  "main": [
+    "dist/webkit-sassui-circle.css",
+    "dist/webkit-sassui-circle.scss"
+  ],
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "webkit",
+    "cssui",
+    "circle"
+  ],
+  "homepage": "https://github.com/afeiship/webkit-cssui-absolute-center",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "src"
+  ]
+}

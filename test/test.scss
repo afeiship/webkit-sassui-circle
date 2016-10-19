@@ -1,0 +1,13 @@
+@import "../dist/webkit-sassui-circle.scss";
+.test-webkit-sassui-circle{
+  @include webkit-sassui-circle();
+}
+
+.test-webkit-sassui-circle-20{
+  @include webkit-sassui-circle(20px,5px solid #F00,green);
+}
+
+
+.test-webkit-sassui-circle-30{
+  @include webkit-sassui-circle(30px);
+}

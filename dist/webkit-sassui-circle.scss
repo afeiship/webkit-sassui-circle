@@ -1,0 +1,10 @@
+/*webkit-sassui-circle Start*/
+@mixin webkit-sassui-circle($inSize:10px,$inBorder:2px solid #009ff0,$inBgColor:#e9f8ff) {
+  width: $inSize;
+  height: $inSize;
+  display: inline-block;
+  background: $inBgColor;
+  border: $inBorder;
+  border-radius: 100%;
+}
+/*webkit-sassui-circle End*/
